@@ -32,8 +32,14 @@ substring
 consisting of non-space characters only.
 
 
+Q.3 Given a string s consisting of words and spaces, return the length of the middle word in the string.
 
-Q.3 Given two strings s and t, determine if they are isomorphic.
+A word is a maximal
+substring
+consisting of non-space characters only.
+
+
+Q.4 Given two strings s and t, determine if they are isomorphic.
 
 Two strings s and t are isomorphic if the characters in s can be replaced to get t.
 
