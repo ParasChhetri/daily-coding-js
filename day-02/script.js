@@ -42,7 +42,7 @@ const middleWorlLength = (s) => {
     }
 }
 
-console.log(middleWorlLength(" apple is jac apple agscugu ahfiuwehghe sdbvibd akjbfueg"));
+console.log(middleWorlLength(" apple is jac apple hdfegfujgefugrfuge ahfiuwehghe sdbvibd akjbfueg"));
 
 // A WAY OF DOING THE ADDITION AND SUBSTRACTION OR ANY OTHER OPRATIONS TOGEATHER
 const addMinus = (a,b) => {
