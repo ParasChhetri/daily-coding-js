@@ -11,27 +11,7 @@ const currentDayTime = () => {
     let second = today.getSeconds();
     let timeFormat = (hour >= 12) ? "PM" : "AM";
     hour = (hour >= 12) ? hour - 12: hour;
-    // if (hour === 0 && timeFormat === "PM") {
-    //     if (minute === 0 && second === 0) {
-    //         hour = 12;
-    //         timeFormat = "Midnight";
-    //     }
-    //     else {
-    //         hour = 12;
-    //         timeFormat = "PM";
-    //     }
-    // }
-
-    // if (hour === 0 && timeFormat === "AM") {
-    //     if (minute === 0 && second === 0) {
-    //         hour = 12;
-    //         timeFormat = "Midnight";
-    //     }
-    //     else {
-    //         hour = 12;
-    //         timeFormat = "AM";
-    //     }
-    // }
+    
     let today_day_time = `Today day is: ${currentDayName}\nCurrent time is: ${hour} : ${timeFormat} : ${minute} : ${second}`;
     return console.log(today_day_time);
 }
