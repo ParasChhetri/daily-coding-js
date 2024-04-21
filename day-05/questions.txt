@@ -1,0 +1,6 @@
+******************************************** QUESTION TAKEN FROM W3RESOURCES *****************************************************
+Q.1 Write a JavaScript function to check whether an 'input' is a string or not. 
+
+Q.2 Print true if the parameter passed in the function is number and if other datatype is passed then print the datatype along with its value passed to the parameter.
+
+Q.3 Ckeck the output of the code of myown choice
