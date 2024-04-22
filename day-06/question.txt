@@ -1,0 +1,12 @@
+Q.1 Write a function to find the largest word in a string. If there are multiple largest words then return the first one encountered.
+contrains :-
+The input string may contain alphabetic characters, digits, spaces and punctuation.
+The input string is non-empty.
+The input string may contain multiple words seperated by spaces.
+note :-
+If the input string is empty or contains only white space the function should return false.
+The function should ignore leading and trailing whitespaces when determining the longest word.
+NOTE TO MYSELF :- WRITE THE CODE IN EVERY POSSIBLE WAY
+
+
+Q.2 Whatever the string is given by the user arrage the string accounding to their charcter code.string could be just some alphabets or words too.
