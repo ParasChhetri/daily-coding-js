@@ -1,0 +1,6 @@
+Q.1 Hash tag generator
+you are required to implement a function that genrates a hash tag from a given input string 
+The hash tag should be generated as follows:
+The input string should be converted to a hash tag format, where each word is capitalized and concatinated togeather without spaces
+If the length of the input string is greater than 200 characters or if the input string is empty or contains only whitespace the function should return false 
+otherwise the function should return generated hash tag prefixed with #
