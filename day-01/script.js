@@ -30,3 +30,34 @@ function doubleVal(someValue) {
 }
 
 console.log(doubleVal([1,2,3]));
+
+// Q.4 SOLUTION
+function areaOfTraingle(height, base) {
+    area = (height * base) / 2;
+    return console.log("the area of the triangle is ", area);
+}
+
+areaOfTraingle(51, 121);
+
+// Q.5 SOLUTION
+
+function parameterOfTriangle(sideOne, sideTwo, sideThree){
+    parameter = sideOne + sideTwo + sideThree;
+    return console.log("parameter of triangle is ",parameter);
+}
+
+parameterOfTriangle(12,34,57);
+
+function volumeOfCylinder(radius, height){
+    volume = 22/7.0 * radius * radius * height;
+    return console.log("The volume of cylinder is: ", volume);
+}
+
+volumeOfCylinder(12,43);
+
+function lateralSurfaceArea(radius, height){
+    let laterl_surface_area = 2 * 22/7.0 * radius * height;
+    return console.log(laterl_surface_area);
+}
+
+lateralSurfaceArea(35,79);
