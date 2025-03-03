@@ -6,6 +6,10 @@ function reverseWords( str ) {
 reverseWords("This is an example!");
 reverseWords("double  spaces");
 
+
+
+
+
 // Q.2 SOLUTION
 function extractMiddle(str) {
     var position;

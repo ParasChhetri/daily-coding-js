@@ -47,7 +47,7 @@ const arrangement = (str) => {
     return console.log(str.split("").sort((a,b)=> b.charCodeAt() - a.charCodeAt()));
 }
 
-arrangement("a2ZEbD3@O!1&pXn");
+arrangement("a2ZEbD3@O!1&pXn jcsdbcubc");
 
 const check = () => {
     let a = 10;
